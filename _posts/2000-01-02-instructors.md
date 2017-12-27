@@ -73,6 +73,19 @@ fa-icon: info
       <div>Fran Roldán</div>
     </a>
 </div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/janna-escur-i-gelabert-276b1212b/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/JannaEscur-160x160.jpg"></div>
+      <div>Janna Escur</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/daniel-moreno-manzano-a5b362a8" target="_blank">
+      <div class="authorphoto"><img src="img/tas/DaniMoreno-160x160.jpg"></div>
+      <div>Daniel Moreno</div>
+    </a>
+</div>
+
 <br>
 
 ### Guest Speakers
