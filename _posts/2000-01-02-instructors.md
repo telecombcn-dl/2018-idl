@@ -62,9 +62,9 @@ fa-icon: info
 ### Teaching Assistants
 
 <div class="author">
-    <a href="https://www.linkedin.com/in/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/FranRoldan-160x160.jpg"></div>
-      <div>Fran Roldán</div>
+    <a href="https://www.linkedin.com/in/marc-g%C3%B3rriz-blanch-74501a123/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/MarcGorriz-160x160.jpg"></div>
+      <div>Marc G&oacute;rriz</div>
     </a>
 </div>
 <div class="author">
@@ -73,13 +73,6 @@ fa-icon: info
       <div>Janna Escur</div>
     </a>
 </div>
-<div class="author">
-    <a href="https://www.linkedin.com/in/marc-g%C3%B3rriz-blanch-74501a123/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/MarcGorriz-160x160.jpg"></div>
-      <div>Marc G&oacute;rriz</div>
-    </a>
-</div>
-
 <div class="author">
     <a href="https://www.linkedin.com/in/daniel-moreno-manzano-a5b362a8" target="_blank">
       <div class="authorphoto"><img src="img/tas/DaniMoreno-160x160.jpg"></div>
