@@ -87,7 +87,13 @@ fa-icon: info
 <div class="author">
     <a href="http://jorditorres.org/" target="_blank">
       <div class="authorphoto"><img src="img/instructors/JordiTorres.jpg"></div>
-      <div>Jordi Torres</div>
+      <div>Jordi Torres (Barcelona Supercomputing Center)</div>
+    </a>
+</div>
+<div class="author">
+    <a href="http://www.tid.es/research/researchers/joan-serra" target="_blank">
+      <div class="authorphoto"><img src="img/guestes/JoanSerra-160x160s.jpg"></div>
+      <div>Joan Serrà (Telfónica I+D)</div>
     </a>
 </div>
 <br>
