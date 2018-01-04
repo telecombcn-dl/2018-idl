@@ -91,8 +91,8 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="http://www.tid.es/research/researchers/joan-serra" target="_blank">
-      <div class="authorphoto"><img src="img/guestes/JoanSerra-160x160s.jpg"></div>
+    <a href="http://joanserra.weebly.com/" target="_blank">
+      <div class="authorphoto"><img src="img/guests/JoanSerra-160x160s.jpg"></div>
       <div>Joan Serrà (Telfónica I+D)</div>
     </a>
 </div>
