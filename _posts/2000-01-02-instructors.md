@@ -59,34 +59,13 @@ fa-icon: info
 <br>
 
 
-### Teaching Assistants
 
-<div class="author">
-    <a href="https://www.linkedin.com/in/marc-g%C3%B3rriz-blanch-74501a123/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/MarcGorriz-160x160.jpg"></div>
-      <div>Marc G&oacute;rriz</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://www.linkedin.com/in/janna-escur-i-gelabert-276b1212b/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/JannaEscur-160x160.jpg"></div>
-      <div>Janna Escur</div>
-    </a>
-</div>
-<div class="author">
-    <a href="https://www.linkedin.com/in/daniel-moreno-manzano-a5b362a8" target="_blank">
-      <div class="authorphoto"><img src="img/tas/DaniMoreno-160x160.jpg"></div>
-      <div>Daniel Moreno</div>
-    </a>
-</div>
-
-<br>
 
 ### Guest Speakers
 
 <div class="author">
     <a href="http://jorditorres.org/" target="_blank">
-      <div class="authorphoto"><img src="img/instructors/JordiTorres.jpg"></div>
+      <div class="authorphoto"><img src="img/guests/JordiTorres.jpg"></div>
       <div>Jordi Torres (Barcelona Supercomputing Center)</div>
     </a>
 </div>
@@ -97,4 +76,31 @@ fa-icon: info
     </a>
 </div>
 <br>
+
+### Teaching Assistants
+
+<div class="author">
+    <a href="https://www.linkedin.com/in/marc-g%C3%B3rriz-blanch-74501a123/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/MarcGorriz-160x160.jpg"></div>
+      <div>Marc G&oacute;rriz</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/daniel-moreno-manzano-a5b362a8" target="_blank">
+      <div class="authorphoto"><img src="img/tas/DaniMoreno-160x160.jpg"></div>
+      <div>Daniel Moreno</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.linkedin.com/in/janna-escur-i-gelabert-276b1212b/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/JannaEscur-160x160.jpg"></div>
+      <div>Janna Escur</div>
+    </a>
+</div>
+<div class="author">
+    <a href="https://www.quora.com/profile/Dani-Fojo" target="_blank">
+      <div class="authorphoto"><img src="img/tas/DaniFojo-160x160.jpg"></div>
+      <div>Dani Fojo</div>
+    </a>
+</div>
 
