@@ -58,9 +58,6 @@ fa-icon: info
 </div>
 <br>
 
-
-
-
 ### Guest Speakers
 
 <div class="author">
