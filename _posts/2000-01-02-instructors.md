@@ -93,7 +93,7 @@ fa-icon: info
 <div class="author">
     <a href="http://joanserra.weebly.com/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JoanSerra-160x160s.jpg"></div>
-      <div>Joan Serrà (Telfónica I+D)</div>
+      <div>Joan Serrà (Telefónica I+D)</div>
     </a>
 </div>
 <br>
