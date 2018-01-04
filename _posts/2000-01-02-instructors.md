@@ -65,13 +65,13 @@ fa-icon: info
 
 <div class="author">
     <a href="http://jorditorres.org/" target="_blank">
-      <div class="authorphoto"><img src="img/guests/JordiTorres.jpg"></div>
+      <div class="authorphoto"><img src="img/guests/JordiTorres-160x160.jpg"></div>
       <div>Jordi Torres (Barcelona Supercomputing Center)</div>
     </a>
 </div>
 <div class="author">
     <a href="http://joanserra.weebly.com/" target="_blank">
-      <div class="authorphoto"><img src="img/guests/JoanSerra-160x160s.jpg"></div>
+      <div class="authorphoto"><img src="img/guests/JoanSerra-160x160.jpg"></div>
       <div>Joan Serrà (Telefónica I+D)</div>
     </a>
 </div>
