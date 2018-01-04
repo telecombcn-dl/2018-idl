@@ -66,7 +66,7 @@ fa-icon: info
 <div class="author">
     <a href="http://jorditorres.org/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JordiTorres-160x160.jpg"></div>
-      <div>Jordi Torres (Barcelona Supercomputing Center)</div>
+      <div>Jordi Torres (BSC)</div>
     </a>
 </div>
 <div class="author">
