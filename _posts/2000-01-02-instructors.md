@@ -61,12 +61,6 @@ fa-icon: info
 ### Guest Speakers
 
 <div class="author">
-    <a href="http://jorditorres.org/" target="_blank">
-      <div class="authorphoto"><img src="img/guests/JordiTorres-160x160.jpg"></div>
-      <div>Jordi Torres (BSC)</div>
-    </a>
-</div>
-<div class="author">
     <a href="http://joanserra.weebly.com/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JoanSerra-160x160.jpg"></div>
       <div>Joan Serrà (Telefónica I+D)</div>
