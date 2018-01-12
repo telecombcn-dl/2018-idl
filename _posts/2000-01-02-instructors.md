@@ -61,6 +61,12 @@ fa-icon: info
 ### Guest Speakers
 
 <div class="author">
+    <a href="http://www.cvc.uab.es/LAMP/joost/" target="_blank">
+      <div class="authorphoto"><img src="img/guests/Joost-160x160.jpg"></div>
+      <div>Joost van de Weijer (CVC)</div>
+    </a>
+</div>
+<div class="author">
     <a href="http://joanserra.weebly.com/" target="_blank">
       <div class="authorphoto"><img src="img/guests/JoanSerra-160x160.jpg"></div>
       <div>Joan Serrà (Telefónica I+D)</div>
