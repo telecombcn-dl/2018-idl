@@ -89,9 +89,9 @@ fa-icon: info
     </a>
 </div>
 <div class="author">
-    <a href="https://www.linkedin.com/in/janna-escur-i-gelabert-276b1212b/" target="_blank">
-      <div class="authorphoto"><img src="img/tas/JannaEscur-160x160.jpg"></div>
-      <div>Janna Escur</div>
+    <a href="https://www.linkedin.com/in/francisco-rold%C3%A1n-s%C3%A1nchez-870438113/" target="_blank">
+      <div class="authorphoto"><img src="img/tas/FranRoldan-160x160.jpg"></div>
+      <div>Fran Roldan</div>
     </a>
 </div>
 <div class="author">
